@@ -1,4 +1,4 @@
-# nishimura-n のプロフィールです．
+# nishimura-n のプロフィールです
 
 ### Github の個人開発アプリ(SNS アプリ)
 
