@@ -19,7 +19,7 @@
 ### 共同開発アプリ(画像分類アプリ)
 
 機械学習によって提示された画像を分類して表示するアプリです．<br>
-主な使用技術：React，Express，Typescript，MySQL<br>
+主な使用技術：React，Express，Typescript，MySQL,Python<br>
 認証は Cookie 認証を使っています．<br>
 
 ## <使用したことがある技術>
